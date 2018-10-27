@@ -1,5 +1,5 @@
 ## How to run
-```cmd
+```java
 javac Main.java
 java Main.java
 ```
