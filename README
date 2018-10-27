@@ -1,0 +1,5 @@
+## How to run
+```cmd
+javac Main.java
+java Main.java
+```
